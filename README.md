@@ -1,5 +1,5 @@
 <h1>Django SQLite to MySQL Migrations</h1>
-In this guid i will guid you to how to migrate data from sqlite to mysql in the most easy and simple way.The following are the steps to migrate data from sqlite to mysql.
+In this guide we will discuss how to migrate data from sqlite to mysql in the most easy and simple way.The following are the steps to migrate data from sqlite to mysql.
 <h1>Steps</h2>
 
   1. Connect your sqlite3 database
